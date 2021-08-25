@@ -1,4 +1,4 @@
-<center>### Hello my friend! 👋</center>
+### <center> Hello my friend! 👋
 
 ---
 
